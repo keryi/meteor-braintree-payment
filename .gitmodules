@@ -1,0 +1,3 @@
+[submodule "lib/braintree"]
+	path = lib/braintree
+	url = https://github.com/braintree/braintree-web.git
