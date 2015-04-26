@@ -1,1 +1,1 @@
-# Meteor package for Braintree Payments (Client Only)
+# Meteor package for Braintree Payments
