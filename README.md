@@ -1,7 +1,7 @@
 # Meteor package for Braintree Payments
 
-# To install
+## To install
 meteor add keryi:meteor-braintree-payment
 
-# Demo
+## Demo
 https://github.com/keryi/meteor-braintree-ex.git
